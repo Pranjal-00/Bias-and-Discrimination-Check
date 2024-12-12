@@ -1,6 +1,7 @@
 # Bias-and-Discrimination-Check
 
 01.INTRODUCTION
+
 The "Bias and Discrimination" project aims to create a tool that detects and analyzes text content for hate speech, discrimination, and harmful language.Focuses on identifying language targeting individuals or groups based on race, gender, religion, ethnicity, sexual orientation, or disability.Uses advanced natural language processing (NLP) techniques and machine learning models to accurately flag harmful content.
 
 02.OBJECTIVE
